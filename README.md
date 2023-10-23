@@ -1,4 +1,6 @@
 **#Banco de Dados de uma Universidade#**
+
+![Universidade com uso do software](https://github.com/claudioajr/databaseuniversity/assets/148277248/6d3385b5-81de-4f6d-bb1a-ee96e629fc36.jpg)
 Descrição
 
 
